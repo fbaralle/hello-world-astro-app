@@ -1,5 +1,5 @@
 # hello-world-astro-app
-(edit for test)
+
 A minimal **Astro 5** starter deployed on [**Webflow Cloud**](https://webflow.com/cloud).
 
 This is the vanilla variant — the exact output of `npm create astro@latest`, styled with a branded landing page and a few doc links to get you going.
